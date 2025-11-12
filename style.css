@@ -1,0 +1,26 @@
+h2 {
+    color: aqua;
+}
+p{
+    color:blue;
+    text-align: center;
+    font-size: 25px;
+}
+.par {
+    color:brown;
+}
+#last {
+    color:bisque;
+}
+div{
+    height: 200px;
+    width: 200px;
+    color: black;
+    background-color: blueviolet;
+    text-align: center;
+    align-content: center;
+    font-size: large;
+    padding: 20px;
+    margin: 100px;
+    border: 1px solid red;
+}
