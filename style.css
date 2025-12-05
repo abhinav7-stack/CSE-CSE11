@@ -205,5 +205,32 @@ h1 {
         background-color: aquamarine;
         
     }
-     */
-     
+    
+     .nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: aqua;
+        padding: irem;
+     }
+     .menu a{
+        color: aquamarine;
+        padding : lem;
+        text-decoration: none;
+        display: block;
+
+
+     }
+     .hemburger{
+        font-size: 2rem;
+        color: beige;
+        cursor:pointer;
+
+     }
+     @media(min-width:768px){
+        .menu{
+            display: flex;
+            flex-direction: row;
+            position: static;
+        }
+    }  */
